@@ -17,5 +17,8 @@
     ],
     "require": {
         "php": ">4.3.0"
+    }, 
+    "autoload": {
+        "classmap": ["./"]
     }
 }
