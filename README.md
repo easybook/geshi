@@ -1,7 +1,9 @@
 # GeSHi - Generic Syntax Highlighter #
 
-This is an unmodified port of the GeSHi project code found on SourceForge:
+This repository has been created just to be able to install GeSHi as a Composer
+package. Technically it's a port of the GeSHi project code found on SourceForge:
 http://sourceforge.net/projects/geshi/
 
-This repository has been created just to be able to install GeSHi as a Composer
-package.
+Differences from the official SourceForge repository:
+
+  * 28/sep/2012: added `twig.php` file to highlight Twig templates.
